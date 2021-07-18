@@ -1,0 +1,15 @@
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\bin\Debug\net5.0\TestApp.Core.deps.json
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\bin\Debug\net5.0\TestApp.Core.dll
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\bin\Debug\net5.0\ref\TestApp.Core.dll
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\bin\Debug\net5.0\TestApp.Core.pdb
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\TestApp.Core.csproj.AssemblyReference.cache
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\TestApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\TestApp.Core.AssemblyInfoInputs.cache
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\TestApp.Core.AssemblyInfo.cs
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\TestApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\TestApp.Core.dll
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\ref\TestApp.Core.dll
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\TestApp.Core.pdb
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\bin\Debug\net5.0\TestApp.Core.runtimeconfig.json
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\bin\Debug\net5.0\TestApp.Core.runtimeconfig.dev.json
+C:\Users\kk355\Desktop\.netDev\asp.net.core.test.app\TestApp.Core\obj\Debug\net5.0\TestApp.Core.genruntimeconfig.cache

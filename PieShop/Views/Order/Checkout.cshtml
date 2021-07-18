@@ -1,0 +1,55 @@
+﻿@model Order
+
+<div class="col-md-6 col-lg-6 col-sm-6">
+    <form asp-action="Checkout" method="post" class="form" role="form">
+
+        <h4>You're just one step away from you delicious pies.</h4>
+        <div asp-validation-summary="All" class="text-danger">
+        </div>
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label"></label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="FirstName" class="form-label"></label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="AddressLine1" class="form-label"></label>
+            <input asp-for="AddressLine1" class="form-control" />
+            <span asp-validation-for="AddressLine1" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="AddressLine2" class="form-label"></label>
+            <input asp-for="AddressLine2" class="form-control" />
+            <span asp-validation-for="AddressLine2" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ZipCode" class="form-label"></label>
+            <input asp-for="ZipCode" class="form-control" />
+            <span asp-validation-for="ZipCode" class="text-danger"></span>
+        </div><div class="mb-3">
+            <label asp-for="State" class="form-label"></label>
+            <input asp-for="State" class="form-control" />
+            <span asp-validation-for="State" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Country" class="form-label"></label>
+            <input asp-for="Country" class="form-control" />
+            <span asp-validation-for="Country" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="PhoneNumber" class="form-label"></label>
+            <input asp-for="PhoneNumber" class="form-control" />
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary" value="Complete order">Submit</button>
+    </form>
+</div>
